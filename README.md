@@ -18,6 +18,23 @@ Aplicación Android para la gestión integral de iglesias: administración de mi
 - UI reactiva con estado (`UiState` por pantalla), manejo de carga, errores y confirmaciones
 - Componentes reutilizables: campos de texto validados, medidor de fuerza de contraseña, skeletons de carga, snackbars, diálogos de confirmación, paginación
 
+## Capturas de pantalla
+
+<p align="center">
+  <img src="screenshots/01_landing.png" width="200" alt="Landing"/>
+  &nbsp;
+  <img src="screenshots/02_login.png" width="200" alt="Login"/>
+  &nbsp;
+  <img src="screenshots/03_registro.png" width="200" alt="Registro"/>
+</p>
+<p align="center">
+  <img src="screenshots/05_dashboard.png" width="200" alt="Dashboard"/>
+  &nbsp;
+  <img src="screenshots/06_menu.png" width="200" alt="Menú de navegación"/>
+  &nbsp;
+  <img src="screenshots/04_recuperar.png" width="200" alt="Recuperar contraseña"/>
+</p>
+
 ## Tecnologías
 
 | Categoría | Tecnología |
